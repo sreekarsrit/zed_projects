@@ -7,3 +7,4 @@ class Person:
 
 p1=Person("bokkagadu",30,"male")
 print(p1)
+p2=Person ("nakka",20,"female")
